@@ -1,0 +1,5 @@
+/Users/arambaloyan/Documents/ACA/SortingAlgorithms/SortingAlgorithms/bin/Debug/SortingAlgorithms.exe
+/Users/arambaloyan/Documents/ACA/SortingAlgorithms/SortingAlgorithms/obj/x86/Debug/SortingAlgorithms.csproj.CoreCompileInputs.cache
+/Users/arambaloyan/Documents/ACA/SortingAlgorithms/SortingAlgorithms/bin/Debug/SortingAlgorithms.pdb
+/Users/arambaloyan/Documents/ACA/SortingAlgorithms/SortingAlgorithms/obj/x86/Debug/SortingAlgorithms.exe
+/Users/arambaloyan/Documents/ACA/SortingAlgorithms/SortingAlgorithms/obj/x86/Debug/SortingAlgorithms.pdb
